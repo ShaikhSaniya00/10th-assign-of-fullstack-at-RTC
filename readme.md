@@ -10,3 +10,7 @@ Welcome ro my personal space. Here's a littel About me.
  - reading comic and novel books
  - Travelling
  - painting
+
+ ## Goal
+
+ I have a goal to become a software engineer and build a new project on website.
