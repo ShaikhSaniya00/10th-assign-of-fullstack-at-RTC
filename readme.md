@@ -4,7 +4,7 @@ Welcome ro my personal space. Here's a littel About me.
 
 ## About me
 
- I am SAniya, I am Learning A Full stack web development from road to code.
+ I am Saniya, I am Learning Fullstack web development from road to code.
 
  ## hobbies
  - reading comic and novel books
@@ -14,3 +14,13 @@ Welcome ro my personal space. Here's a littel About me.
  ## Goal
 
  I have a goal to become a software engineer and build a new project on website.
+
+# meet my friends
+
+
+![groupphoto](photo.png)
+
+## my friends my is
+- Lakshmi
+- Samrudhi
+- Prerna
